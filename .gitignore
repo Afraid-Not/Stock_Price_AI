@@ -28,6 +28,4 @@ token_cache.json
 *.xlsx
 */*/*.xlsx
 _weight/
-_v* 
-_bin/ 
-_data/ 
+
