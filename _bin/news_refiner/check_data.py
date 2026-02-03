@@ -19,3 +19,8 @@ print(df.groupby('연도')['감성_점수'].mean().sort_index())
 
 
 
+
+
+
+
+

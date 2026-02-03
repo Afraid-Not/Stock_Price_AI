@@ -28,4 +28,6 @@ token_cache.json
 *.xlsx
 */*/*.xlsx
 _weight/
-
+*/_backtest
+*/models_9stocks/
+*/tuning_results/
